@@ -1,0 +1,8 @@
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\bin\Debug\ProgrammersClock.exe
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\bin\Debug\ProgrammersClock.pdb
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\obj\Debug\ProgrammersClock.frmPrincipal.resources
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\obj\Debug\ProgrammersClock.Properties.Resources.resources
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\obj\Debug\ProgrammersClock.csproj.GenerateResource.Cache
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\obj\Debug\ProgrammersClock.exe
+D:\Documentos\Renann\Visual Studio 2008\Projects\ProgrammersClock\ProgrammersClock\obj\Debug\ProgrammersClock.pdb
